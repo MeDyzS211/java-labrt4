@@ -1,4 +1,4 @@
-package lab1;
+package zadanie1;
 
 class Animal {
     private String name;
