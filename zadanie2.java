@@ -1,4 +1,4 @@
-package lab2;
+package zadanie2;
 
 class Person {
     protected String name;
